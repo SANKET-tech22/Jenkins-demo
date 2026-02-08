@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building from GitHub Jenkinsfile...'
+                echo 'Building from Version 2'
             }
         }
 
